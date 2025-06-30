@@ -1,2 +1,0 @@
-# LandingWebPage
-Landing Page Development
